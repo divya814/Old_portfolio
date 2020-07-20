@@ -1,2 +1,2 @@
 # Old_portfolio
-This is the I have during my Coursera Project of making a Responsive Portfolio.
+I have made this project during my Coursera Project of making a Responsive Portfolio.
